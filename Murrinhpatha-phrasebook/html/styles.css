@@ -1,0 +1,106 @@
+body {
+	font-family: sans-serif;
+	font-size: 24px;
+}
+.H1 {
+	font-weight: bold;
+	font-size: 150%;
+	margin-bottom: 20px;
+}
+.H2 {
+	font-weight: bold;
+	font-size: 100%;
+	margin-bottom: 20px;
+	color: black;
+}
+.phrase {
+	margin-bottom: 40px;
+	-webkit-column-break-inside: avoid; /* see http://stackoverflow.com/questions/7785374/how-to-prevent-column-break-within-an-element for more options */
+}
+.sentence {
+	margin-bottom: 40px;
+	-webkit-column-break-inside: avoid; /* see http://stackoverflow.com/questions/7785374/how-to-prevent-column-break-within-an-element for more options */
+}
+.MP {
+	font-size: 100%;
+	text-align: left;
+	color: black;
+}
+.English {
+	font-size: 100%;
+	text-align: left;
+	font-style: italic;
+	color: black;
+}
+.divider {
+	font-size: 100%;
+	text-align: left;
+	font-style: italic;
+}
+.note {
+	border-width: medium;
+	border-color: #3366CC;
+	border-style: dashed;
+	background-color: #CAE1FF;
+	padding: 8px;
+	font-size: 70%;
+	width: 700px;
+	margin-bottom: 40px;
+}
+.text {
+	width: 840px;
+}
+.menu {
+	color: white;
+	font-size: 150%;
+}
+.menu-item {
+	vertical-align: bottom;
+	color: white;
+}
+.phrase-section {
+	-moz-column-count: 2; /* Firefox */
+	-webkit-column-count: 2; /* Safari and Chrome */
+	column-count: 2;
+	column-width: 500px;
+	margin-bottom: 40px;
+}
+.sentence-section {
+	
+}
+a {
+	text-decoration: none;
+	color: #3366CC;
+}
+.menu a {
+	text-decoration: none;
+	color: inherit;
+}
+.navigation {
+	color: #3366CC;
+	font-size: 70%;
+	width: 1000px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	padding-bottom:  40px;
+	margin-bottom: 10px;
+}
+.footer {
+	color: black;
+	font-size: 70%;
+	width: 1000px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	text-align: center;
+	padding-bottom:  40px;
+	margin-bottom: 10px;
+}
+.banner { /* this doesn't work */
+	max-height: 300px;
+	width = 100%;
+}
+.illustration {
+
+}
