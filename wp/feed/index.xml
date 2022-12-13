@@ -12,12 +12,12 @@
 	<atom:link href="https://jbmansfield.github.io/wp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jbmansfield.github.io/wp/</link>
 	<description></description>
-	<lastBuildDate>Thu, 03 Nov 2022 01:31:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2022 05:38:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>
